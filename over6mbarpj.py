@@ -61,18 +61,3 @@ plt.rc('font', family='Microsoft JhengHei')
 plt.bar(bx, list(bb), color=["orange", "brown",
         "pink", "gray"], edgecolor="k")
 plt.show()
-
-
-# 畫出有內容的子圖
-# fig = plt.figure()
-# plt.subplot(221)
-# plt.plot(x)
-# plt.subplot(224)
-# plt.plot(y)
-# plot.show()
-# 不只畫出有內容的子圖
-# fig, ax = plt.subplots(1, 2)
-# ax[0].plot()
-# ax[1].plot()
-# plt.plot()
-# plot.show()
