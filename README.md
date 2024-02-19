@@ -18,7 +18,7 @@ https://github.com/0iris0/project/blob/main/%E7%8B%80%E6%85%8Bvs%E4%BB%B6%E6%95%
 圖一、狀態對應申請件數
 從系統開始記錄時統計，大多案件已結案。
 
-
+https://github.com/0iris0/project/blob/main/%E5%BB%A0%E5%8D%80vs%E4%BB%B6%E6%95%B8.png?raw=true
 圖二、廠區對應申請件數
 T5廠申請件數占全台41.4%居冠，其次依序為T3廠、T1廠、T2廠。
 
