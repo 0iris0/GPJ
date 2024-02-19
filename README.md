@@ -22,7 +22,7 @@ https://github.com/0iris0/project/blob/main/%E5%BB%A0%E5%8D%80vs%E4%BB%B6%E6%95%
 圖二、廠區對應申請件數
 T5廠申請件數占全台41.4%居冠，其次依序為T3廠、T1廠、T2廠。
 
-
+https://github.com/0iris0/project/blob/main/%E5%BB%A0%E5%8D%80vs%20over6m.png?raw=true
 圖三、各廠申請案件平均結案天數(過去已結案共94件)
 因結案時間超過半年即代表嚴重需及時改善對象，各廠結案天數並未有超過半年的。平均最長結案天數為T3廠約48.8天，其次依序為T2廠約40.9天、T5廠約29.8天、T1廠約27.6天。
 
