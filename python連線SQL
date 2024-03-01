@@ -1,0 +1,6 @@
+import pymysql
+import charts
+db_settings={
+  host="127.7.0.0.0.1",port="3306",user="root","db"="practice",chartset="utf8"
+}
+conn=pymysql.connect(db_settings)
